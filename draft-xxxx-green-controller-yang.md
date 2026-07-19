@@ -19,37 +19,44 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
-category: info
+title: "GREEN Controller YANG"
+abbrev: "grecon"
+category: std
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-xxxx-green-controller-yang-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: OPS
+workgroup: GREEN WG
 keyword:
- - next generation
- - unicorn
- - AI-native
+ - green
+ - controller
+ - energy
+ - YANG
+ - telemetry
+ - collection
+ - aggregation
 venue:
-  group: WG
+  group: GREEN WG
   type: Working Group
   mail: WG@example.com
   arch: https://example.com/WG
   github: USER/REPO
   latest: https://example.com/LATEST
+  github: "janlindblad/draft-green-controller"
+  latest: "https://janlindblad.github.io/draft-green-controller/draft-green-controller.html"
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Jan Lindblad
+    organization: All For Eco
+    email: jan.lindblad@for.eco
 
 normative:
+  RFC7950:
 
 informative:
 

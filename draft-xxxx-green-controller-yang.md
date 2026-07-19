@@ -9,8 +9,8 @@ number:
 date:
 consensus: true
 v: 3
-area: OPS
-workgroup: GREEN WG
+area: "Operations and Management"
+workgroup: "Getting Ready for Energy-Efficient Networking"
 keyword:
  - green
  - controller
@@ -20,14 +20,14 @@ keyword:
  - collection
  - aggregation
 venue:
-  group: GREEN WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Getting Ready for Energy-Efficient Networking"
+  type: "Working Group"
+  mail: "green@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/green/"
   github: "janlindblad/draft-green-controller"
-  latest: "https://janlindblad.github.io/draft-green-controller/draft-green-controller.html"
+  latest: "https://janlindblad.github.io/draft-green-controller/draft-xxxx-green-controller-yang.html"
+  github: "janlindblad/draft-green-controller"
+  latest: "https://janlindblad.github.io/draft-green-controller/draft-xxxx-green-controller-yang.html"
 
 author:
  -
